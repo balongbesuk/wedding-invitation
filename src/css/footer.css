@@ -1,13 +1,14 @@
 footer {
-    margin-top: 6rem;
+    margin-top: 0rem !important;
     width: 100%;
     padding: 4rem 8rem;
     text-align: center;
+    background-color: #212529;
 }
 
 footer h2 {
     font-size: var(--fontSize-heading-base);
-    font-family: var(--sacramento);
+    font-family: var(--Parisienne);
     font-weight: 400;
     margin-top: 1rem;
 }

@@ -1,12 +1,12 @@
 :root {
-    --primary-font-color: '#212529';
-    --bg-color: #f8f9fa;
+    --primary-font-color: #ffffff;
+    --bg-color: #212529;
 
     --fontSize-heading-lg: 3rem;
     --fontSize-heading-base: 2.8rem;
     --fontSize-text-base: 1rem;
 
-    --sacramento: Sacramento, cursive;
+    --Parisienne: Parisienne, cursive;
     --arabic: 'Noto Naskh Arabic', serif;
 
     --shadow-md: 0 0 10px rgba(0, 0, 0, 0.3);

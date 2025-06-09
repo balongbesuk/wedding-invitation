@@ -1,9 +1,11 @@
 .bride {
+    margin-top: -2rem !important;
     width: 100%;
     min-height: 100vh;
     text-align: center;
     padding: 10rem 8rem;
     position: relative;
+    background-color: #212529;
 }
 
 .bride h2 {
@@ -14,7 +16,7 @@
 
 .bride h3 {
     font-size: var(--fontSize-heading-base);
-    font-family: var(--sacramento);
+    font-family: var(--Parisienne);
     font-weight: 400;
     margin: 1rem 0;
 }
@@ -49,12 +51,12 @@
 .bride .bride_couple li figure figcaption {
     font-size: var(--fontSize-heading-base);
     margin: 1rem 0;
-    font-family: var(--sacramento);
+    font-family: var(--Parisienne);
 }
 
 .bride .bride_couple span {
     font-size: 3.4rem;
-    font-family: var(--sacramento);
+    font-family: var(--Parisienne);
     font-weight: 400;
     margin-top: 1rem;
 }
@@ -102,7 +104,7 @@
 
 .hadist h2 {
     font-size: var(--fontSize-heading-base);
-    font-family: var(--sacramento);
+    font-family: var(--Parisienne);
     font-weight: 400;
     margin-bottom: 1rem;
 }
